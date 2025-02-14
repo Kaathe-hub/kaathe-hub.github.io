@@ -18,11 +18,11 @@ header {
     flex-wrap: wrap;
  }
  .post-text-box {
-    flex: 70%;
+    flex: 40%;
     padding: 20px;
  }
  .profile {
-    flex: 70%;
+    flex: 40%;
     padding: 20px;
  }
  /*profile image and heading style*/

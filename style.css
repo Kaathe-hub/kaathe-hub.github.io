@@ -15,7 +15,7 @@ header {
  }
  .row {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
  }
  .post-text-box {
     flex: 40%;

@@ -23,10 +23,11 @@ header {
  }
 
  .post-text-box img {
-    width: 240px;
+    width: 200px;
     display: block;
     margin-left: 0;
     margin-right: 0;
+    image-rendering: pixelated;
  }
 
 

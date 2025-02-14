@@ -53,6 +53,7 @@ header {
     text-align: center;
     flex: 35%;
     padding-top: 25px;
+    padding-right: 20px;
  }
  /*profile image and heading style*/
  .profile img {
@@ -60,7 +61,7 @@ header {
     display: block;
     margin-left: 0;
     margin-right: 0;
-    padding-left: 40px;
+    padding-left: 50px;
 
  }
  .profile h1 {

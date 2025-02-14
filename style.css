@@ -6,8 +6,10 @@ header {
  /*navigation menu style*/
  nav {
     text-align: center;
-    word-spacing: 30px;
-    Padding: 10px;
+   word-spacing: 30px;
+   padding: 10px;
+   background-color: #f000000
+   font-family: Helvetica;
  }
  /*creating the two-column layout*/
  *{

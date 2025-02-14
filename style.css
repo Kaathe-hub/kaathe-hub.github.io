@@ -19,7 +19,7 @@ header {
     flex-wrap: wrap;
  }
  .post-text-box {
-    flex: 30%;
+    flex: 20%;
     padding: 20px;
  }
 
@@ -32,8 +32,9 @@ header {
  }
 
  .text-2 {
-    flex: 30%;
-    padding-right: 60px;
+    flex: 40%;
+    padding-right: 50px;
+    padding-top: 60px;
  }
 
  .text-2 img {
@@ -47,7 +48,7 @@ header {
 
  .profile {
     text-align: center;
-    flex: 30%;
+    flex: 35%;
     padding: 20px;
  }
  /*profile image and heading style*/

@@ -1,17 +1,13 @@
 /*header style*/
-.header-box { 
-    border: 2px solid #333; /* Border color and thickness */ 
-    /*padding: 20px;          /* Space between the text and the border */ 
-    text-align: center;     /* Center the text */ 
-    background-color: #000000; /* Optional: background color */ 
-    /*border-radius: 10px;    /* Optional: rounded corners */ 
-}
+header {
+    text-align: center; 
+    padding: 20px;
+ }
  /*navigation menu style*/
  nav {
     text-align: center;
     word-spacing: 30px;
     Padding: 10px;
-    background-color: black;
  }
  /*creating the two-column layout*/
  *{
@@ -22,11 +18,9 @@
     flex-wrap: wrap;
  }
  .post-text-box {
-    flex: 20%;
+    flex: 50%;
     padding: 20px;
  }
-
-
 
  .post-text-box img {
     width: 200px;
@@ -36,25 +30,9 @@
     image-rendering: pixelated;
  }
 
+
  .text-2 {
     flex: 40%;
-    padding-right: 40px;
-    padding-top: 19px;
- }
-
- .text-2 img {
-    width: 200px;
-    display: block;
-    margin-left: 0;
-    margin-right: 0;
-    image-rendering: pixelated;
-    padding-top: 1px;
- }
-
-
- .profile {
-    text-align: center;
-    flex: 35%;
     padding: 20px;
  }
  /*profile image and heading style*/
@@ -63,7 +41,6 @@
     display: block;
     margin-left: 0;
     margin-right: 0;
-    padding: 20px;
  }
  .profile h1 {
     text-align: center;

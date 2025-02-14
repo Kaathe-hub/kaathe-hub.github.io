@@ -8,6 +8,7 @@ header {
     text-align: center;
     word-spacing: 30px;
     Padding: 10px;
+    background-color: black;
  }
  /*creating the two-column layout*/
  *{

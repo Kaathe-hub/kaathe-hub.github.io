@@ -29,12 +29,11 @@ header {
     margin-left: 0;
     margin-right: 0;
     image-rendering: pixelated;
-    padding: 20px;
  }
 
  .text-2 {
     flex: 30%;
-    padding: -60px;
+    padding-right: 60px;
  }
 
  .text-2 img {

@@ -34,7 +34,7 @@ header {
  .text-2 {
     flex: 40%;
     padding-right: 40px;
-    padding-top: 20px;
+    padding-top: 19px;
  }
 
  .text-2 img {
@@ -43,6 +43,7 @@ header {
     margin-left: 0;
     margin-right: 0;
     image-rendering: pixelated;
+    padding-top: 2px;
  }
 
 

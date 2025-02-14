@@ -18,6 +18,7 @@ header {
     flex-wrap: wrap;
  }
  .post-text-box {
+    text-align: center;
     flex: 55%;
     padding: 20px;
  }
@@ -32,6 +33,7 @@ header {
 
 
  .profile {
+    text-align: center;
     flex: 30%;
     padding: 20px;
  }

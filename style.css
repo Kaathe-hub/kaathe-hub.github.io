@@ -19,9 +19,8 @@ header {
     flex-wrap: wrap;
  }
  .post-text-box {
-    text-align: center;
     flex: 55%;
-    padding: 20px;
+    padding: 50px;
  }
 
  .post-text-box img {
@@ -30,13 +29,14 @@ header {
     margin-left: 0;
     margin-right: 0;
     image-rendering: pixelated;
+    padding: 50px;
  }
 
 
  .profile {
     text-align: center;
     flex: 30%;
-    padding: 20px;
+    padding: 50px;
  }
  /*profile image and heading style*/
  .profile img {
@@ -44,6 +44,7 @@ header {
     display: block;
     margin-left: 0;
     margin-right: 0;
+    padding: 50px;
  }
  .profile h1 {
     text-align: center;

@@ -1,0 +1,23 @@
+/*header style*/
+header {
+    text-align: center; 
+    padding: 20px;
+ }
+ /*navigation menu style*/
+ nav {
+    text-align: center;
+    word-spacing: 30px;
+    Padding: 10px;
+ }
+ .post-text-box {
+    flex: 100%;
+    padding: 20px;
+ }
+
+ .post-text-box img {
+    width: 700px;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    image-rendering: auto;
+ }

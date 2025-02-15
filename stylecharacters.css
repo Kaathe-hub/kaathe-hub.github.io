@@ -1,0 +1,24 @@
+/*header style*/
+header {
+    text-align: center; 
+    padding: 20px;
+ }
+ /*navigation menu style*/
+ nav {
+    text-align: center;
+    word-spacing: 30px;
+    Padding: 10px;
+ }
+ .post-text-box {
+    text-align: center;
+    flex: 100%;
+    padding: 20px;
+ }
+
+ .post-text-box img {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    image-rendering: auto;
+ }

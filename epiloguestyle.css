@@ -10,11 +10,13 @@ header {
     Padding: 10px;
  }
  .post-text-box {
+    text-align: center;
     flex: 100%;
     padding: 20px;
  }
 
  .post-text-box img {
+    align-items: center;
     width: 700px;
     display: block;
     margin-left: 0;
